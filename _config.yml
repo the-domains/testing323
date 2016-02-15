@@ -1,0 +1,28 @@
+name: testing323
+favicon: null
+layout_spectrum: 0.9804997232276946
+typography_spectrum: 0.8392966170795262
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7005640720017254
+  lightness: 0.5947379013523459
+  saturation: 0.6338175968267024
+  rhythmicContrast: 0.6721862314734608
+purpose: []
